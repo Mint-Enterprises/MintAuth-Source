@@ -1,0 +1,23 @@
+# Copyright (c) 2026 AutoMint. License: see LICENSE.
+.tools/
+.gradle/
+**/build/
+**/run/
+out/
+.idea/
+.vscode/
+*.iml
+*.class
+*.jar
+*.zip
+*.log
+hs_err_pid*
+replay_pid*
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets/
+signing/private/
+__pycache__/

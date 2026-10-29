@@ -1,0 +1,21 @@
+MintAuth distribution notice. Copyright (c) 2026 AutoMint.
+First-party licensing: see LICENSE.
+
+MintAuth implementation is original. SchubiAuthV2 is a behavioral reference;
+its GPL source is not copied or linked.
+
+Runtime dependencies retain their upstream licenses: Gson (Apache-2.0),
+Bouncy Castle (MIT), and JNA / JNA Platform (Apache-2.0 or LGPL-2.1-or-later).
+Builds select the Apache-2.0 option for JNA. JUnit is test-only (EPL-1.0).
+Essential Loom is a build-only dependency (MIT); the Essential runtime and GPL
+Essential Gradle Toolkit are not incorporated. Fabric/Forge loader and game
+dependencies retain their own terms and are not relicensed by MintAuth.
+
+Original runtime license texts are packaged under META-INF/mintauth/licenses,
+including JNA's Apache option and bundled libffi notice. Gson/Bouncy Castle
+texts come from their pinned upstream tags; JNA notices come from the verified
+artifacts and its 5.18.1 source tag. Gson and Bouncy Castle packages are relocated;
+their behavior is unchanged. JNA's package remains unchanged for native loading.
+Gradle verification metadata records resolved SHA-256 checksums. Minecraft game
+files, loader libraries and build plugins are not distributed inside MintAuth.
+

@@ -1,0 +1,8 @@
+# Copyright (c) 2026 AutoMint. License: see LICENSE.
+* text=auto eol=lf
+*.png binary
+*.jpg binary
+*.jar binary
+*.zip binary
+*.webp binary
+*.bat text eol=crlf

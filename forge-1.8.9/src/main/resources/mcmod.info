@@ -1,0 +1,1 @@
+[{"_mintauth_license":"Copyright (c) 2026 AutoMint. License: see LICENSE.","modid":"mintauth","name":"MintAuth","description":"Link AutoMint and manage Minecraft sessions.","version":"${version}","mcversion":"1.8.9","url":"https://automint.online","authorList":["Mint Enterprises"],"clientSideOnly":true}]

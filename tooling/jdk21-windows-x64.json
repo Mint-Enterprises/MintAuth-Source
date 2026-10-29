@@ -1,0 +1,14 @@
+{
+  "_mintauth_license": "Copyright (c) 2026 AutoMint. License: see LICENSE.",
+  "vendor": "Eclipse Temurin",
+  "javaMajor": 21,
+  "version": "21.0.12+101.0.LTS",
+  "release": "jdk-21.0.12.1+1",
+  "os": "windows",
+  "architecture": "x64",
+  "archive": "OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip",
+  "url": "https://github.com/adoptium/temurin21-binaries/releases/download/jdk-21.0.12.1%2B1/OpenJDK21U-jdk_x64_windows_hotspot_21.0.12.1_1.zip",
+  "sha256": "f9d6e191ab098c0d416e7d588a24420a8621cd2f4720dab2459b8b7b2d2d8b4e",
+  "javaHome": ".tools/jdk-21.0.12.1+1",
+  "metadataSource": "https://api.adoptium.net/v3/assets/latest/21/hotspot?architecture=x64&image_type=jdk&os=windows&vendor=eclipse"
+}

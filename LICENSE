@@ -1,0 +1,248 @@
+MintAuth Source-Available License
+Version 1.1
+License identifier: LicenseRef-MintAuth-Source-Available
+
+Copyright (c) 2026 AutoMint. All rights reserved.
+Licensing, commercial permission, and other inquiries: contact@hilfing.dev
+
+This is a proprietary, source-available license. Publishing source for inspection
+does not make it open-source, public-domain, or available for unrestricted reuse.
+The permissions below are limited and conditional. No other permission is granted
+by silence, public availability, a repository fork, or possession of a copy.
+
+1. DEFINITIONS AND SCOPE
+
+"AutoMint" identifies the rights holder or holders publishing MintAuth under the
+AutoMint name. It does not designate a particular corporate form or jurisdiction.
+"You" means the person or entity exercising permissions under this license.
+
+"Software" means the copyrightable first-party MintAuth source, object code,
+original assets, artwork, original interface designs, text, build and release
+tooling, metadata, and documentation distributed with this license, to the extent
+AutoMint owns or is authorized to license those materials. Third-party components
+are excluded and remain subject to their own terms.
+
+"Official Release" means an unmodified MintAuth JAR intentionally released by
+AutoMint through an official distribution channel. A copy with altered program
+contents, a third-party build, or a repackaged derivative is not an Official
+Release merely because it retains MintAuth names, public keys, or metadata.
+
+"Written Permission" means an express written authorization from AutoMint that
+identifies the rights granted. A public repository, support subscription, device
+authorization, contributor label, unanswered request, or informal assumption is
+not Written Permission to build, modify, redistribute, or sell the Software.
+
+2. SOURCE INSPECTION PERMISSION
+
+You may view the published source and retain an exact local copy solely for
+private inspection, non-executing analysis, and preparing a private security or
+licensing report. Retain this license and the existing ownership and third-party
+notices with that copy. This permission does not authorize compiling, modifying,
+publishing, incorporating, or distributing the Software or a derivative of it.
+
+Where a repository host's applicable terms grant users limited rights to view or
+fork a public repository through that host, those platform rights are preserved.
+They do not create additional permission under this license for off-platform
+redistribution, personal builds, commercial exploitation, or derivative products.
+
+Review permission does not require You to surrender rights in an independent
+report or independently created work. Mandatory legal exceptions remain intact.
+
+3. OFFICIAL RELEASE USE
+
+You may download, retain, install, and run an Official Release for Your own
+authorized Minecraft accounts and eligible AutoMint access. Normal installation
+into a launcher or modpack instance, routine loader operations required to run
+the unmodified JAR, and private backup of that JAR are permitted. These activities
+do not grant permission to distribute a modpack containing the JAR to others.
+
+Use is nonexclusive and grants no ownership of the Software. Your permission
+cannot be sublicensed or sold. Normal personal use, including playing or streaming
+Minecraft with an Official Release installed, is not prohibited merely because
+the gameplay or stream earns revenue; selling or exploiting the Software itself
+is governed by the restrictions below.
+
+4. BUILDS, MODIFICATIONS, AND DERIVATIVES
+
+Without Written Permission, You may not compile or produce personal, modified,
+debug, translated, repackaged, or derivative builds of the first-party Software;
+modify its protected source or assets; or incorporate its protected expression
+into another program, service, library, plugin, or product.
+
+Build instructions, scripts, dependency declarations, CI configuration, public
+verification keys, and source availability explain how authorized maintainers
+work. Their inclusion is not a separate build license. An authorization for one
+specific build or task does not authorize later versions, resale, redistribution,
+or other uses unless the authorization expressly includes them.
+
+This section does not restrict uses that applicable law allows without AutoMint's
+permission, or rights independently granted by a third-party license.
+
+5. REDISTRIBUTION AND COMMERCIAL USE
+
+Except for the express permissions above or mandatory legal rights, You may not
+publish, mirror, upload, share, sublicense, rent, lease, sell, or otherwise supply
+the Software, protected portions of it, unauthorized builds, or derivatives to
+another person without Written Permission. This applies whether access is free,
+paid, bundled, donation-funded, subscription-based, or supplied to a single client.
+
+In particular, this license does not authorize selling modified copies, paid
+source access, white-label versions, rebranded clients, development deliverables
+containing copied code, or hosted products incorporating the protected Software.
+Private use and noncommercial use do not by themselves authorize an otherwise
+prohibited build, modification, or distribution.
+
+Linking people to an official download page or the public review repository is
+permitted and is not redistribution of the Software. Private reports may include
+the limited excerpts reasonably necessary to explain an issue to AutoMint.
+
+6. ALTERED COPIES AND RETAINED OWNERSHIP
+
+Changing package names, identifiers, formatting, comments, colors, file structure,
+build output, or branding does not by itself eliminate copyright obligations when
+protected MintAuth expression remains. Rewriting selected portions does not grant
+rights to distribute protected portions that were retained. A different filename,
+hash, signature, watermark, or claimed author is not permission to reuse them.
+
+This license does not claim ownership of general ideas, functionality, protocols,
+algorithms, facts, or independently written implementations merely because they
+resemble MintAuth. Whether a particular work infringes protected expression is a
+question of the actual material and applicable law, not a label in this license.
+
+7. NOTICES AND ATTRIBUTION
+
+Retain copyright, license, attribution, provenance, and third-party notices in
+copies permitted by this license. Do not remove, conceal, replace, or falsify them
+to misrepresent ownership, hide unauthorized copying, or market an altered copy
+as an independent or official product. Written Permission may specify how notices
+must appear in a separately authorized derivative or distribution.
+
+Removing a notice or watermark does not release surviving legal obligations.
+Conversely, a matching marker alone is not conclusive proof of copying or ownership.
+The Software contains no promise that source markers are technically unremovable.
+
+8. TRADEMARKS AND RELEASE AUTHENTICITY
+
+AutoMint and MintAuth names, logos, and other brand identifiers remain subject to
+their owners' trademark rights. No branding or endorsement license is granted
+beyond normal display in an Official Release and accurate identification when
+linking, discussing, reviewing, or reporting on the actual Software as legally
+permitted. Do not falsely imply that AutoMint approved a build, seller, service,
+repository, or derivative.
+
+Public certificates and verification keys are published for authenticity checks.
+They do not authorize signing, release issuance, website access, or reuse of the
+Software. Do not falsely represent an altered, unsigned, or independently signed
+artifact as verified or released by AutoMint. Private signing credentials are not
+licensed or supplied through this source publication.
+
+9. ACCOUNTS AND CONNECTED SERVICES
+
+The Software license does not itself grant an AutoMint membership, backend API
+authority, ownership of a Minecraft account, or access to another person's data.
+Connected features remain subject to the service's applicable terms and current
+authorization. This license does not permit using stolen credentials, bypassing
+another user's access controls, or misrepresenting a client to obtain authority.
+
+Normal account switching, approved device linking, permitted manual imports,
+updates, and use of features provided by an Official Release remain permitted
+within the express use grant. This license does not grant AutoMint ownership of
+Your Minecraft account, credentials, or independent user data.
+
+10. THIRD-PARTY MATERIALS
+
+Dependencies, game and loader materials, and other third-party components retain
+their own copyrights, licenses, and notices. See NOTICE and the upstream license
+texts distributed with the Software. This license does not override, narrow, or
+add conditions to rights You receive directly under those third-party licenses.
+An AutoMint distribution watermark on a third-party notice does not relicense the
+underlying third-party material or claim authorship of it.
+
+No SchubiAuthV2 implementation is incorporated. Reference to another project does
+not grant rights in that project's code, trademarks, or other protected materials.
+
+11. INDEPENDENT RIGHTS AND SECURITY REPORTS
+
+Nothing here limits rights that cannot lawfully be restricted, including applicable
+fair-use, quotation, interoperability, accessibility, research, or consumer rights.
+The existence and scope of those rights depend on applicable law; this section
+does not declare that every activity described by one of those labels is exempt.
+
+Private, good-faith security reports are welcome at contact@hilfing.dev. Inspection
+permission does not grant permission to attack production services, access other
+users' accounts, obtain unrelated data, or test systems You do not control. Any
+separate testing permission must identify its authorized scope. Reporting an issue
+does not transfer ownership of Your independently created report to AutoMint.
+
+12. CONTRIBUTIONS AND SEPARATE AGREEMENTS
+
+Submitting a suggestion, issue, or proposed change does not assign its author's
+copyright to AutoMint or grant that author a general license to modify or sell
+MintAuth. Rights needed to incorporate third-party contributions must be agreed
+separately. Do not submit code or data You have no authority to disclose.
+
+A separate Written Permission governs only the rights it expressly grants. In a
+conflict, that permission controls for its identified subject and parties; all
+other applicable license terms continue. Payment for support or membership alone
+does not purchase source ownership, modification rights, or a commercial license.
+
+13. TERMINATION
+
+Subject to applicable law, permissions granted by this license terminate upon a
+material breach of its conditions. You must stop the uses that depended on the
+terminated permission and stop unauthorized distribution. On a lawful written
+request, remove unauthorized copies and builds under Your control, except copies
+You are legally required or independently entitled to retain, including evidence.
+
+Termination does not retroactively make compliant past use a breach, extinguish
+rights independently granted by third-party licenses, or automatically terminate
+another person's compliant permissions. Any reinstatement must be in writing.
+The ownership, notice, reserved-rights, warranty, liability, and other provisions
+that by their nature apply after termination continue to the extent lawful.
+
+14. WARRANTY DISCLAIMER
+
+TO THE EXTENT PERMITTED BY APPLICABLE LAW, THE SOFTWARE IS PROVIDED "AS IS" AND
+"AS AVAILABLE", WITHOUT EXPRESS OR IMPLIED WARRANTIES, INCLUDING MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT. AUTOMINT DOES NOT
+WARRANT UNINTERRUPTED SERVICE, ERROR-FREE OPERATION, SECURITY AGAINST EVERY ATTACK,
+COMPATIBILITY WITH EVERY DEVICE, LOADER, GAME VERSION OR MOD, OR CONTINUED VALIDITY
+OF THIRD-PARTY SESSIONS. MANDATORY WARRANTIES AND NON-WAIVABLE RIGHTS ARE PRESERVED.
+
+15. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, AUTOMINT AND THE SOFTWARE'S
+AUTHORS AND RIGHTS HOLDERS ARE NOT LIABLE FOR INDIRECT, INCIDENTAL, SPECIAL,
+CONSEQUENTIAL, OR EXEMPLARY DAMAGES, OR LOST PROFITS, DATA, SESSIONS, OR BUSINESS,
+ARISING FROM THE SOFTWARE OR ITS USE. ANY OTHER EXCLUSION OR LIMIT IN THIS LICENSE
+APPLIES ONLY TO THE EXTENT LAWFUL. NOTHING EXCLUDES LIABILITY THAT APPLICABLE LAW
+DOES NOT ALLOW TO BE EXCLUDED OR LIMITS MANDATORY CONSUMER REMEDIES.
+
+16. ENFORCEMENT AND REMEDIES
+
+AutoMint reserves remedies actually available under applicable law and any valid
+agreement for unauthorized copying, distribution, false attribution, or other
+infringement. This license does not create automatic fines, guaranteed damages,
+automatic transfer of another person's intellectual property, or self-help access
+to their systems. Any remedy remains subject to the applicable legal requirements.
+Failure or delay in enforcing a term is not a general permission or waiver.
+
+17. VERSIONS, SEVERABILITY, AND APPLICABLE LAW
+
+This is version 1.1 of this license. AutoMint may publish a different license for
+future distributions. A later text does not automatically replace the license
+attached to an earlier copy or retroactively withdraw rights already granted in
+that copy. Existing grants and applicable law determine those rights.
+
+If a provision is unenforceable, the remaining provisions continue to the extent
+they can lawfully operate independently. No particular governing law, exclusive
+court, arbitration process, or corporate domicile is selected by this license;
+applicable legal rules determine those matters. Nothing overrides mandatory law.
+
+18. CONTACT AND PERMISSION REQUESTS
+
+Send licensing, commercial, redistribution, build-permission, and ownership-notice
+inquiries to contact@hilfing.dev. Identify the intended use, distribution, relevant
+version, and rights requested. A request is not permission until AutoMint expressly
+grants the relevant rights in writing. Retain that authorization with any copies
+whose use depends on it.
